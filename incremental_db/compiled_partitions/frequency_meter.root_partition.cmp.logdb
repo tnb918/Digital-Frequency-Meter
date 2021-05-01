@@ -1,0 +1,5 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,cal:inst7|lpm_mult:Mult1|mult_7dt:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,cal:inst7|lpm_mult:Mult1|mult_7dt:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,cal:inst7|lpm_mult:Mult1|mult_7dt:auto_generated|mac_out6,
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,cal:inst7|lpm_mult:Mult1|mult_7dt:auto_generated|mac_mult5,

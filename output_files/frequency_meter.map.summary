@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Jun 17 20:00:44 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : frequency_meter
+Top-level Entity Name : freq
+Family : Cyclone 10 LP
+Total logic elements : 5,804
+    Total combinational functions : 5,784
+    Dedicated logic registers : 198
+Total registers : 198
+Total pins : 24
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 6
+Total PLLs : 1

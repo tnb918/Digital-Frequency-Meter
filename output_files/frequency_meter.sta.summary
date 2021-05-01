@@ -1,0 +1,413 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'TESTCTL:inst3|div2'
+Slack : -152.751
+TNS   : -4092.924
+
+Type  : Slow 1200mV 85C Model Setup 'seg_led:inst8|dri_clk'
+Slack : -70.473
+TNS   : -1775.529
+
+Type  : Slow 1200mV 85C Model Setup 'shuru'
+Slack : -3.048
+TNS   : -65.682
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -1.615
+TNS   : -44.367
+
+Type  : Slow 1200mV 85C Model Setup 'gg:inst2|freq1'
+Slack : -0.701
+TNS   : -0.701
+
+Type  : Slow 1200mV 85C Model Setup 'frequency_meter:inst1|freq1'
+Slack : -0.641
+TNS   : -0.641
+
+Type  : Slow 1200mV 85C Model Setup 'gg:inst2|freq3'
+Slack : -0.613
+TNS   : -0.613
+
+Type  : Slow 1200mV 85C Model Setup 'gg:inst2|freq2'
+Slack : -0.550
+TNS   : -0.550
+
+Type  : Slow 1200mV 85C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.414
+TNS   : -0.414
+
+Type  : Slow 1200mV 85C Model Setup 'gg:inst2|freq4'
+Slack : 0.109
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.082
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'TESTCTL:inst3|div2'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'seg_led:inst8|dri_clk'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'shuru'
+Slack : 0.489
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'gg:inst2|freq4'
+Slack : 0.492
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'gg:inst2|freq1'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'gg:inst2|freq2'
+Slack : 0.642
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'frequency_meter:inst1|freq1'
+Slack : 0.662
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'gg:inst2|freq3'
+Slack : 0.700
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : -1.360
+TNS   : -34.443
+
+Type  : Slow 1200mV 85C Model Recovery 'shuru'
+Slack : -1.056
+TNS   : -22.146
+
+Type  : Slow 1200mV 85C Model Removal 'shuru'
+Slack : 0.472
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : 0.912
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'gg:inst2|freq1'
+Slack : -3.444
+TNS   : -4.931
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'gg:inst2|freq2'
+Slack : -3.444
+TNS   : -4.931
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'gg:inst2|freq3'
+Slack : -3.444
+TNS   : -4.931
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'gg:inst2|freq4'
+Slack : -3.444
+TNS   : -4.931
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'shuru'
+Slack : -3.000
+TNS   : -44.636
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'seg_led:inst8|dri_clk'
+Slack : -1.487
+TNS   : -108.551
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'TESTCTL:inst3|div2'
+Slack : -1.487
+TNS   : -46.097
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'frequency_meter:inst1|freq1'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : 9.732
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'TESTCTL:inst3|div2'
+Slack : -138.681
+TNS   : -3718.803
+
+Type  : Slow 1200mV 0C Model Setup 'seg_led:inst8|dri_clk'
+Slack : -64.484
+TNS   : -1618.764
+
+Type  : Slow 1200mV 0C Model Setup 'shuru'
+Slack : -2.696
+TNS   : -58.989
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -1.549
+TNS   : -42.705
+
+Type  : Slow 1200mV 0C Model Setup 'gg:inst2|freq1'
+Slack : -0.607
+TNS   : -0.607
+
+Type  : Slow 1200mV 0C Model Setup 'frequency_meter:inst1|freq1'
+Slack : -0.549
+TNS   : -0.549
+
+Type  : Slow 1200mV 0C Model Setup 'gg:inst2|freq3'
+Slack : -0.540
+TNS   : -0.540
+
+Type  : Slow 1200mV 0C Model Setup 'gg:inst2|freq2'
+Slack : -0.485
+TNS   : -0.485
+
+Type  : Slow 1200mV 0C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.197
+TNS   : -0.197
+
+Type  : Slow 1200mV 0C Model Setup 'gg:inst2|freq4'
+Slack : 0.204
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.054
+TNS   : -0.054
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'seg_led:inst8|dri_clk'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'TESTCTL:inst3|div2'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'shuru'
+Slack : 0.438
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'gg:inst2|freq4'
+Slack : 0.441
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'gg:inst2|freq1'
+Slack : 0.578
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'gg:inst2|freq2'
+Slack : 0.578
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'frequency_meter:inst1|freq1'
+Slack : 0.610
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'gg:inst2|freq3'
+Slack : 0.632
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : -1.244
+TNS   : -31.119
+
+Type  : Slow 1200mV 0C Model Recovery 'shuru'
+Slack : -0.871
+TNS   : -17.316
+
+Type  : Slow 1200mV 0C Model Removal 'shuru'
+Slack : 0.323
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : 0.820
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'gg:inst2|freq1'
+Slack : -3.444
+TNS   : -4.931
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'gg:inst2|freq2'
+Slack : -3.444
+TNS   : -4.931
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'gg:inst2|freq3'
+Slack : -3.444
+TNS   : -4.931
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'gg:inst2|freq4'
+Slack : -3.444
+TNS   : -4.931
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'shuru'
+Slack : -3.000
+TNS   : -44.636
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'seg_led:inst8|dri_clk'
+Slack : -1.487
+TNS   : -108.551
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'TESTCTL:inst3|div2'
+Slack : -1.487
+TNS   : -46.097
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'frequency_meter:inst1|freq1'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.729
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499.675
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'TESTCTL:inst3|div2'
+Slack : -66.363
+TNS   : -1776.745
+
+Type  : Fast 1200mV 0C Model Setup 'seg_led:inst8|dri_clk'
+Slack : -30.276
+TNS   : -748.708
+
+Type  : Fast 1200mV 0C Model Setup 'shuru'
+Slack : -0.755
+TNS   : -14.412
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.349
+TNS   : -1.729
+
+Type  : Fast 1200mV 0C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.061
+TNS   : -0.061
+
+Type  : Fast 1200mV 0C Model Setup 'gg:inst2|freq1'
+Slack : 0.009
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'frequency_meter:inst1|freq1'
+Slack : 0.021
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'gg:inst2|freq3'
+Slack : 0.060
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'gg:inst2|freq2'
+Slack : 0.075
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'gg:inst2|freq4'
+Slack : 0.625
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.076
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'TESTCTL:inst3|div2'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'seg_led:inst8|dri_clk'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'shuru'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'gg:inst2|freq4'
+Slack : 0.207
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'gg:inst2|freq1'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'frequency_meter:inst1|freq1'
+Slack : 0.255
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'gg:inst2|freq2'
+Slack : 0.272
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'gg:inst2|freq3'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : -0.234
+TNS   : -5.787
+
+Type  : Fast 1200mV 0C Model Recovery 'shuru'
+Slack : -0.215
+TNS   : -3.398
+
+Type  : Fast 1200mV 0C Model Removal 'shuru'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'shuru'
+Slack : -3.000
+TNS   : -35.956
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'gg:inst2|freq1'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'gg:inst2|freq2'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'gg:inst2|freq3'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'gg:inst2|freq4'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'seg_led:inst8|dri_clk'
+Slack : -1.000
+TNS   : -73.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'TESTCTL:inst3|div2'
+Slack : -1.000
+TNS   : -31.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'frequency_meter:inst1|freq1'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.413
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499.776
+TNS   : 0.000
+
+------------------------------------------------------------

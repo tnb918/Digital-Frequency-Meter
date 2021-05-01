@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jun 17 20:01:07 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : frequency_meter
+Top-level Entity Name : freq
+Family : Cyclone 10 LP
+Device : 10CL006YU256C8G
+Timing Models : Final
+Total logic elements : 5,798 / 6,272 ( 92 % )
+    Total combinational functions : 5,784 / 6,272 ( 92 % )
+    Dedicated logic registers : 198 / 6,272 ( 3 % )
+Total registers : 198
+Total pins : 24 / 177 ( 14 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 6 / 30 ( 20 % )
+Total PLLs : 1 / 2 ( 50 % )
